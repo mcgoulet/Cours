@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="330"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   style="display:inline"
+   sodipodi:docname="LVM1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path5838"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5832"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3644">
+      <stop
+         style="stop-color:#01caf9;stop-opacity:1;"
+         offset="0"
+         id="stop3646" />
+      <stop
+         style="stop-color:#0a6f8b;stop-opacity:1;"
+         offset="1"
+         id="stop3648" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3626">
+      <stop
+         style="stop-color:#1424f3;stop-opacity:1;"
+         offset="0"
+         id="stop3628" />
+      <stop
+         style="stop-color:#bad4f9;stop-opacity:1;"
+         offset="1"
+         id="stop3630" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2845"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3806"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3810"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3812"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3814"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3828"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3830"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3832"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3834"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3840"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3844"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3848"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3856"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3860"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient3888"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient4053"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <inkscape:perspective
+       id="perspective4073"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4112"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4169"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4192"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4231"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4435"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4464">
+      <rect
+         style="color:#000000;fill:#940200;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:1.26251662;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.26251665, 1.26251665;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4466"
+         width="37.880344"
+         height="200.02319"
+         x="98.202713"
+         y="404.13632" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective4476"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4562"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3644"
+       id="linearGradient6524"
+       gradientUnits="userSpaceOnUse"
+       x1="118.18785"
+       y1="357.88229"
+       x2="84.75943"
+       y2="328.8009" />
+    <inkscape:perspective
+       id="perspective6605"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="177.71767"
+     inkscape:cy="116.61006"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4627"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="1000"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="opacity:0.82608696;display:inline"
+     transform="translate(-96.027809,-262.6475)">
+    <g
+       id="g4627"
+       style="opacity:0.98000004"
+       transform="translate(6.7580908,-11.712076)">
+      <rect
+         style="opacity:0.82608696;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6553"
+         width="505.07626"
+         height="334.3605"
+         x="86.239265"
+         y="272.52448" />
+      <rect
+         rx="32.857143"
+         ry="31.428572"
+         y="418.07648"
+         x="102.85714"
+         height="173.5714"
+         width="432.85721"
+         id="rect2852"
+         style="fill:#99d3ff;fill-opacity:1;stroke:#00015d;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         id="path4300"
+         d="m 135.71429,474.50504 0,62.14286 30,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <g
+         style="fill:url(#linearGradient6524);fill-opacity:1"
+         transform="translate(27.815091,-0.49530947)"
+         id="g3798">
+        <rect
+           y="333.72278"
+           x="75.750145"
+           height="40.237808"
+           width="165.18253"
+           id="rect3963"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#01caf9;fill-opacity:1;stroke:#00015d;stroke-width:1.86892116;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3642"
+           width="41.891411"
+           height="40.88126"
+           x="69.147179"
+           y="329.73535" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect3642"
+           id="use3660"
+           transform="translate(125.281,0)"
+           width="744.09448"
+           height="1052.3622"
+           style="fill-opacity:1" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(83.520664,0)"
+           id="use3842"
+           xlink:href="#rect3642"
+           y="0"
+           x="0" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(41.760332,0)"
+           id="use3846"
+           xlink:href="#rect3642"
+           y="0"
+           x="0" />
+        <text
+           id="text3816"
+           y="355.27902"
+           x="80.054306"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           xml:space="preserve"><tspan
+             y="355.27902"
+             x="80.054306"
+             id="tspan3818"
+             sodipodi:role="line">PE</tspan></text>
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(125.281,-1.335144e-5)"
+           style="fill:#000000;fill-opacity:1"
+           id="use3820"
+           xlink:href="#text3816"
+           y="0"
+           x="0" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(75.944524,0.50506292)"
+           style="fill:#000000;fill-opacity:1"
+           id="use3854"
+           xlink:href="#text3816"
+           y="0"
+           x="0" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(41.760336,-1.335144e-5)"
+           style="fill:#000000;fill-opacity:1"
+           id="use3858"
+           xlink:href="#text3816"
+           y="0"
+           x="0" />
+        <text
+           id="text3862"
+           y="360.40768"
+           x="100.51018"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           xml:space="preserve"><tspan
+             y="360.40768"
+             x="100.51018"
+             id="tspan3864"
+             sodipodi:role="line">1</tspan></text>
+        <text
+           id="text3866"
+           y="360.40768"
+           x="141.42136"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           xml:space="preserve"><tspan
+             y="360.40768"
+             x="141.42136"
+             id="tspan3868"
+             sodipodi:role="line">2</tspan></text>
+        <text
+           id="text3870"
+           y="360.40768"
+           x="176.27162"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           xml:space="preserve"><tspan
+             y="360.40768"
+             x="176.27162"
+             id="tspan3872"
+             sodipodi:role="line">N-1</tspan></text>
+        <text
+           id="text3874"
+           y="360.40768"
+           x="224.25386"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           xml:space="preserve"><tspan
+             y="360.40768"
+             x="224.25386"
+             id="tspan3876"
+             sodipodi:role="line">N</tspan></text>
+      </g>
+      <path
+         id="path4302"
+         d="m 175.71429,473.07647 0,62.85714"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <path
+         id="path4304"
+         d="m 213.57143,472.36218 0,37.14286 100.71428,0 0,27.14286"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <path
+         id="path4306"
+         d="m 252.85714,473.07647 0,63.57143 -62.85714,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <path
+         id="path4308"
+         d="m 378.57143,472.36218 0,37.14286 -53.57143,0 0,25"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <path
+         id="path4310"
+         d="m 418.57143,471.6479 0,35.71428 24.28571,0 0,22.14286"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <path
+         id="path4312"
+         d="m 455.71429,472.36218 0,55.71429"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <g
+         id="g4335">
+        <g
+           id="g4323">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="translate(142.14286,0.71428444)"
+             id="use4153"
+             xlink:href="#g4149"
+             y="0"
+             x="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           x="297.366"
+           y="542.88721"
+           id="text4083"><tspan
+             sodipodi:role="line"
+             id="tspan4085"
+             x="297.366"
+             y="542.88721">/home</tspan></text>
+      </g>
+      <path
+         id="path4314"
+         d="m 497.14286,473.79075 0,33.57143 -29.28572,0 0,25.71429"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+      <g
+         id="g4329">
+        <g
+           id="g4326">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="translate(285,-1.4285756)"
+             id="use4155"
+             xlink:href="#g4149"
+             y="0"
+             x="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+           x="447.366"
+           y="540.74432"
+           id="text4087"><tspan
+             sodipodi:role="line"
+             id="tspan4089"
+             x="447.366"
+             y="540.74432">/var</tspan></text>
+      </g>
+      <text
+         id="text4091"
+         y="541.45862"
+         x="383.79456"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+         xml:space="preserve"><tspan
+           y="541.45862"
+           x="383.79456"
+           id="tspan4093"
+           sodipodi:role="line">...</tspan></text>
+      <g
+         transform="translate(70.71429,-77.857143)"
+         id="g4260">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           x="47.857151"
+           y="650.2193"
+           id="text4157"><tspan
+             sodipodi:role="line"
+             id="tspan4159"
+             x="47.857151"
+             y="650.2193">Logical Volume</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           x="168.04185"
+           y="654.3277"
+           id="text4198"><tspan
+             sodipodi:role="line"
+             id="tspan4200"
+             x="168.04185"
+             y="654.3277">1</tspan></text>
+      </g>
+      <g
+         transform="translate(211.42857,-99.31209)"
+         id="g4266">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#text4157"
+           id="use4219"
+           transform="translate(-4.5909899e-6,21.428571)"
+           width="744.09448"
+           height="1052.3622" />
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           x="167.93443"
+           y="675.80902"
+           id="text4202"><tspan
+             sodipodi:role="line"
+             id="tspan4204"
+             x="167.93443"
+             y="675.80902">2</tspan></text>
+      </g>
+      <g
+         transform="translate(352.85714,-121.42856)"
+         id="g4271">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#text4157"
+           id="use4221"
+           transform="translate(-4.5909899e-6,43.571428)"
+           width="744.09448"
+           height="1052.3622" />
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           x="167.03795"
+           y="697.89911"
+           id="text4206"><tspan
+             sodipodi:role="line"
+             id="tspan4208"
+             x="167.03795"
+             y="697.89911">Y</tspan></text>
+      </g>
+      <g
+         id="g4316">
+        <g
+           id="g4341">
+          <g
+             transform="translate(-65.714281,-181.42857)"
+             id="g4149">
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:none"
+               id="rect4063"
+               width="55.635181"
+               height="35.635181"
+               x="220.03958"
+               y="704.54462"
+               ry="9.0983438" />
+            <rect
+               ry="9.0983438"
+               y="701.68744"
+               x="216.46815"
+               height="35.635181"
+               width="55.635181"
+               id="rect4147"
+               style="fill:#fce994;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.07910609;stroke-opacity:1" />
+          </g>
+          <text
+             id="text4079"
+             y="542.17291"
+             x="159.50887"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+             xml:space="preserve"><tspan
+               y="542.17291"
+               x="159.50887"
+               id="tspan4081"
+               sodipodi:role="line">/root</tspan></text>
+        </g>
+      </g>
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(15,122.14286)"
+         id="use4059"
+         xlink:href="#g3798"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(255.71429,120.71429)"
+         id="use4061"
+         xlink:href="#g3798"
+         y="0"
+         x="0" />
+      <g
+         id="g4348"
+         transform="translate(85.71429,-207.14286)">
+        <text
+           id="text4350"
+           y="650.2193"
+           x="40.000008"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           xml:space="preserve"><tspan
+             y="650.2193"
+             x="40.000008"
+             id="tspan4352"
+             sodipodi:role="line">Physical Volume</tspan></text>
+        <text
+           id="text4354"
+           y="654.3277"
+           x="168.04185"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           xml:space="preserve"><tspan
+             y="654.3277"
+             x="168.04185"
+             id="tspan4356"
+             sodipodi:role="line">1</tspan></text>
+      </g>
+      <g
+         transform="translate(327.14286,-207.14286)"
+         id="g4358">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           x="40.000008"
+           y="650.2193"
+           id="text4360"><tspan
+             sodipodi:role="line"
+             id="tspan4362"
+             x="40.000008"
+             y="650.2193">Physical Volume</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           x="168.04185"
+           y="654.3277"
+           id="text4364"><tspan
+             sodipodi:role="line"
+             id="tspan4366"
+             x="168.04185"
+             y="654.3277">X</tspan></text>
+      </g>
+      <g
+         style="fill:#940200;fill-opacity:1"
+         transform="translate(218.57144,-240.57143)"
+         id="g4368">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#940200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           x="56.428577"
+           y="650.2193"
+           id="text4370"><tspan
+             sodipodi:role="line"
+             id="tspan4372"
+             x="56.428577"
+             y="650.2193">Volume Group</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#940200;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           x="168.04185"
+           y="654.3277"
+           id="text4374"><tspan
+             sodipodi:role="line"
+             id="tspan4376"
+             x="168.04185"
+             y="654.3277">1</tspan></text>
+      </g>
+      <g
+         id="g4417"
+         transform="translate(395.7143,-240.57143)">
+        <text
+           id="text4419"
+           y="650.2193"
+           x="56.428577"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#940200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           xml:space="preserve"><tspan
+             y="650.2193"
+             x="56.428577"
+             id="tspan4421"
+             sodipodi:role="line">Volume Group</tspan></text>
+        <text
+           id="text4423"
+           y="654.3277"
+           x="168.04185"
+           style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#940200;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold Italic'"
+           xml:space="preserve"><tspan
+             y="654.3277"
+             x="168.04185"
+             id="tspan4425"
+             sodipodi:role="line">Z</tspan></text>
+      </g>
+      <text
+         id="text4091-9"
+         y="410.11349"
+         x="415.79449"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.82608696;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+         xml:space="preserve"><tspan
+           y="410.11349"
+           x="415.79449"
+           id="tspan4093-8"
+           sodipodi:role="line">...</tspan></text>
+      <use
+         clip-path="url(#clipPath4464)"
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(446.42857,0)"
+         id="use4452"
+         xlink:href="#rect2852"
+         y="0"
+         x="0" />
+      <g
+         id="g4348-3"
+         transform="translate(35.662453,26.835614)"
+         style="opacity:0.82608696;display:inline">
+        <text
+           id="text4350-6"
+           y="362.36215"
+           x="84.285721"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Italic'"
+           xml:space="preserve"><tspan
+             y="362.36215"
+             x="84.285721"
+             id="tspan4352-3"
+             sodipodi:role="line">Physical Volume</tspan></text>
+      </g>
+      <g
+         transform="translate(0,25.253814)"
+         id="g4591">
+        <g
+           transform="translate(69.700526,-358.60415)"
+           id="g4609">
+          <text
+             id="text4502"
+             y="642.75079"
+             x="255.9001"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+             xml:space="preserve"><tspan
+               y="642.75079"
+               x="255.9001"
+               id="tspan4504"
+               sodipodi:role="line">Typical limits for Linux LVM v1:</tspan></text>
+          <g
+             transform="translate(30.214264,-22.5)"
+             id="g4577">
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+               x="367.79315"
+               y="685.22858"
+               id="text4506"><tspan
+                 sodipodi:role="line"
+                 id="tspan4508"
+                 x="367.79315"
+                 y="685.22858">Range of PE size (p):</tspan><tspan
+                 sodipodi:role="line"
+                 x="367.79315"
+                 y="700.22858"
+                 id="tspan4510">Range of PV size (v):</tspan><tspan
+                 sodipodi:role="line"
+                 x="367.79315"
+                 y="715.22858"
+                 id="tspan4512">Range of PEs (N):</tspan><tspan
+                 sodipodi:role="line"
+                 x="367.79315"
+                 y="730.22858"
+                 id="tspan4514">Range of PVs (X):</tspan><tspan
+                 sodipodi:role="line"
+                 x="367.79315"
+                 y="745.22858"
+                 id="tspan4516">Range of VGs(Z):</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:'10.15 Saturday Night BRK Bold'"
+               x="372.27905"
+               y="686.08905"
+               id="text4518"><tspan
+                 sodipodi:role="line"
+                 id="tspan4520"
+                 x="372.27905"
+                 y="686.08905">8KB... 512MB</tspan><tspan
+                 sodipodi:role="line"
+                 x="372.27905"
+                 y="701.08905"
+                 id="tspan4522">512MB... 2TB</tspan><tspan
+                 sodipodi:role="line"
+                 x="372.27905"
+                 y="716.08905"
+                 id="tspan4524">1... 65534</tspan><tspan
+                 sodipodi:role="line"
+                 x="372.27905"
+                 y="731.08905"
+                 id="tspan4526">1... 256</tspan><tspan
+                 sodipodi:role="line"
+                 x="372.27905"
+                 y="746.08905"
+                 id="tspan4528">1... 99</tspan></text>
+          </g>
+          <path
+             id="path4530"
+             d="m 256.9423,647.20127 204.25511,0"
+             style="fill:none;stroke:#000000;stroke-width:1.967206px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="115.18496"
+         y="310.81494"
+         id="text5442"><tspan
+           sodipodi:role="line"
+           id="tspan5444"
+           x="115.18496"
+           y="310.81494">p</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="178.13463"
+         y="292.12711"
+         id="text5446"><tspan
+           sodipodi:role="line"
+           id="tspan5448"
+           x="178.13463"
+           y="292.12711">v</tspan></text>
+      <g
+         id="g5456">
+        <path
+           id="path5450"
+           d="m 97.037962,328.24007 0,-41.66879"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <use
+           height="340"
+           width="500"
+           transform="translate(166.92771,0)"
+           id="use5452"
+           xlink:href="#path5450"
+           y="0"
+           x="0" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 42.678945,76.350185 0,-24.748737"
+         id="path5454"
+         transform="translate(96.027809,252.6475)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         d="m 89.903577,37.459312 75.761443,0"
+         id="path5460"
+         transform="translate(96.027809,252.6475)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path5460"
+         id="use6462"
+         transform="matrix(-1,0,0,1,361.50109,0)"
+         width="500"
+         height="340" />
+      <path
+         id="path6466"
+         d="m 123.30193,308.5421 12.62691,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         sodipodi:nodetypes="cc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path6466"
+         id="use6468"
+         transform="matrix(-1,0,0,1,235.73711,0)"
+         width="500"
+         height="340" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         d="m 567.76622,403.5421 12.62691,0"
+         id="path6526" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4,2;stroke-dashoffset:0"
+         d="m 178.797,99.68522 11.11168,80.8122"
+         id="path6619"
+         transform="translate(89.269718,274.35958)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4,2;stroke-dashoffset:0"
+         d="M 8.0812204,95.644609 21.213203,176.45681"
+         id="path6621"
+         transform="translate(89.269718,274.35958)" />
+    </g>
+  </g>
+</svg>
