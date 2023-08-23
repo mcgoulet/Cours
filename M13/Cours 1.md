@@ -76,7 +76,7 @@ La loi de Moore (Gordon Moore, développeur chez Intel dans les années 60) affi
 Le hyperthreading est la façon qu'Intel virtualise ses coeurs en doublant le nombre de coeur physique en coeurs logiques.  Cette technique permet de maintenir les états de deux threads différents au niveau du processeur et ainsi de pouvoir passer de l'un à l'autre dans un laps de temps très court, de l'ordre de la nanoseconde. Ceci permet au processeur d'utiliser au mieux les ressources en garantissant que des données lui sont envoyées (s'il sait qu'une instruction doit lire un mot en mémoire, ce qui peut prendre plusieurs cycles d'horloge), une unité centrale peut passer à l'autre thread par exemple.
 
 ## Multicoeur
-Au-delà du multithreading, on trouve des unités centrales possédants de deux ou quatre processeurs intégrés complets. On dit de ces circuits qu'ils sont multicoeurs. En séparant les processeurs en coeur, on a augmenté le nombre d'instructions par seconde en multipliant le nombre de traitements en parallèle. Jusqu'aux années 2005, les processeurs était simple coeur, les derniers commercialisés par Intel étaient nommés Pentium 4 et ils ont été en fin de vie dans les années 2010. On peut dire sans se tromper que mis à part les circuits intégrés, les processeurs simple coeur sont disparus.
+Au-delà du hyperthreading, on trouve des unités centrales possédants de deux ou quatre processeurs intégrés complets. On dit de ces circuits qu'ils sont multicoeurs. En séparant les processeurs en coeur, on a augmenté le nombre d'instructions par seconde en multipliant le nombre de traitements en parallèle. Jusqu'aux années 2005, les processeurs était simple coeur, les derniers commercialisés par Intel étaient nommés Pentium 4 et ils ont été en fin de vie dans les années 2010. On peut dire sans se tromper que mis à part les circuits intégrés, les processeurs simple coeur sont disparus.
 
 ## Cadence
 La façon de déterminer la vitesse d'un processeur est par le nombre d'instructions effectuées par seconde:
@@ -179,7 +179,7 @@ Finalement, l'emplacement de la carte-mère où l'on insère le processeur est n
 Vous comprendrez que lorsque vous assemblez un ordinateur, vous devrez vous assurer que le socle (socket) soit compatible avec votre processeur.
 
 ### BUS
-Un bus est une route entre deux éléments, entre le processeur et la mémoire centrale, un bus, entre le socket et le USB, un bus. À l'origine des ordinateurs, un seul bus était utilisé, mais avec l'augmentation des performances (tant de la communication avec E/S qu'avec la communication entre processeur et mémoire), nous nous sommes tournées vers des bus de plus en plus rapides. Comme nous le voyons dans les graphiques précédents, les bus sont présents sont le DMI et le SPI.
+Un bus est une route entre deux éléments, entre le processeur et la mémoire centrale, un bus, entre le socket et le USB, un bus. À l'origine des ordinateurs, un seul bus était utilisé, mais avec l'augmentation des performances (tant de la communication avec entrée/sortie (E/S) qu'avec la communication entre processeur et mémoire), nous nous sommes tournées vers des bus de plus en plus rapides. Comme nous le voyons dans les graphiques précédents, les bus sont présents sont le Direct Media Interface (DMI) et le Serial Peripheral Interface (SPI).
 
 De nos jours, les bus ont été remplacés par des technologies plus rapides et plus larges tel que Intel QPI, DMI, AMD Infinity Fabric.
 
@@ -196,7 +196,7 @@ Chaque fois qu'un programme est exécuté sur un PC, celui-ci est emmagasiné da
 ## Pourquoi avons-nous donc besoin de mémoire centrale?
 Il s'agit d'une question de rapidité. La mémoire de stockage est réputée pour son utilité, mais aussi pour sa lenteur. En appliquant la loi du troupeau, les éléments d'un PC interagissent entre eux et la vitesse des échanges est déterminée par la composante la plus lente. Le processeur étant extrêmement rapide, il est donc préférable de l'utiliser avec une composante des plus rapides.
 
-La DDR est un type de mémoire SDRAM qui double la vitesse de la SDRAM en permettant un échange de données au début et à la fin de l'horloge (lorsque le signal est à 0 et à 1). Les versions de DDR varient de DDR2 à DDR4 offrant de plus en plus de vitesse pour chaque nouvelle version. Nous sommes rendus à la 4e version de la DDR de nos jours.
+La DDR est un type de mémoire SDRAM qui double la vitesse de la SDRAM en permettant un échange de données au début et à la fin de l'horloge (lorsque le signal est à 0 et à 1). Les versions de DDR varient de DDR2 à DDR5 offrant de plus en plus de vitesse pour chaque nouvelle version. Nous sommes rendus à la 5e version de la DDR de nos jours.
 
 # GPU
 Le gpu ou carte vidéo (graphique) ou graphic processing unit est une carte d'extension permettant de générer une image sur un écran. Certains processeurs ont une carte vidéo intégrée, c'est le cas de la majorité des processeurs intel résidentiels, donc lors de l'assemblage d'ordinateur à processeurs Intel, il n'est pas nécessaire de se procurer absolument une carte graphique. Bien sûr que les cartes graphiques intégrées ne sont pas au même niveau que les cartes graphiques externes lorsqu'on parle de performance dans les jeux vidéos, mais pour un usage traditionnel, ils sont malgré tout performants.
@@ -303,15 +303,15 @@ La différence entre GBps et Gbps est relativement difficile à percevoir au dé
 * 1 bit représente une donnée variant entre 0 et 1. 
 * Si vous collez 8 bits ensemble, vous obtenez un octet (ou un **Byte** en anglais). 
 * Donc 8 bits = 1 Byte, la différence entre 6 Gbps (bits) et 6 GBps (bytes) est la division par 8. 
-* Donc 6 GBps escomme
-Le calcul de votre vitesse Internet peut être approximativement identique, si vous avez un accès Internet à 100 Mbps, vous téléchargerez approximativement un fichier de 1 GB en 2 minutes:
+* Donc 6 GBps est 8 fois plus gros que 6 Gbps. 
+* Le calcul de votre vitesse Internet peut être approximativement identique, si vous avez un accès Internet à 100 Mbps, vous téléchargerez approximativement un fichier de 1 GB en 2 minutes:
 
-* Fichier de 1GB
-* Vitesse de 100 Mbps ou 12.5 MBps
-* 1000 / 12.5 = 80 secondes ou 1 minute 20
+* Fichier de 1GB, mais la vitesse est indiquée en bits par seconde
+* Soit une vitesse de 100 Mbps, vous devez la convertir en Bps afin de comparer les données dans le même format. Donc, 100Mbps est équivalent à 12.5 MBps (100/8).
+* 1GB = 1000MB, donc 1000 / 12.5 = 80 secondes ou 1 minute 20
 
 ## SSD
-Un SSD (Solid State Drive) est une unité de mémoire auxiliaire qui utilise des circuits électroniques pour stocker l'information. La technologie SSD utilise des interfaces électroniques afin d'être compatible avec les technologies des disques durs traditionnels ce qui permet aisément de les remplacer. De plus, ils utilisent les mêmes connexions SATA. Finalement, à la base ils utilisent des NAND afin de stocker l'information.
+Un SSD (Solid State Drive) est une unité de mémoire auxiliaire qui utilise des circuits électroniques pour stocker l'information. La technologie SSD utilise des interfaces électroniques afin d'être compatible avec les technologies des disques durs traditionnels ce qui permet aisément de les remplacer. De plus, ils utilisent les mêmes connexions SATA. Finalement, à la base ils utilisent des NAND (mémoire flash) afin de stocker l'information.
 
 ![](images/20-147-674-V03.jpg)
 
@@ -329,7 +329,7 @@ Il faut savoir qu'il y a deux façons deux façons de connecter les SSDs:
 
 ## SATA
 
-Les 870 (SATA) ont une vitesse de lecture de 550 MBps et de lecture de 520 MBps.
+Les 870 (SATA) ont une vitesse de lecture de 560 MBps et d'écriture de 530 MBps.
 
 ## M.2 ou NVME
 
