@@ -147,7 +147,7 @@ Le MBR (master boot record) est le premier secteur d'un disque dur. Il est donc 
 * Primaire
 * Étendue
 
-On peut avoir au maximum 4 partitions et au maximum 1 partition étendue. L'avantage de la partition étendue c'est qu'on peut avoir un grand nombre de partition logique.
+On peut avoir au maximum 4 partitions et au maximum 1 partition étendue. Cependant, une partition étendue ne peut pas stocker de fichiers. Elle est en fait un contenant à partitions logiques qui elles peuvent stocker des fichiers. L'avantage de la partition étendue c'est qu'on peut avoir un grand nombre de partitions logiques. 
 
 Plusieurs informations sont stockées dans la table de partition:
 * le statut (bootable, ...) --- 1 octet
